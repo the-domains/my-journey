@@ -1,26 +1,26 @@
-color:
-  saturation: 0.4590267
-  brandStrength: 0.6739312
-  rhythmicContrast: 0.4603658
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.2604923
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.3618207
-typography_spectrum: 0.4933276
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.1630824
+color:
+  saturation: 0.4590267
+  brandStrength: 0.6236559
+  lightness: 0.5376344
+  brandColors:
+    - '#FFFFFF'
+    - '#1E1D21'
+    - '#5A676E'
+    - '#C79177'
+    - '#88775C'
+  rhythmicContrast: 0.9910395
+layout_spectrum: 0.7401434
 name: My Journey
